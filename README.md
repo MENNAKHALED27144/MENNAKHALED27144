@@ -68,30 +68,15 @@ I believe in **learning by building**, so I turn what I learn into practical pro
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 📊 Olist Brazilian E-Commerce Analytics
+My data analysis and business intelligence projects, including interactive dashboards, are published on my LinkedIn profile.
 
-An end-to-end analytics project exploring sales performance, delivery operations, customer satisfaction, and seller performance.
-
-**Tools:** Excel, Power Query, Power Pivot, DAX, PivotTables, PivotCharts
-
-**Highlights:**
-- Built an interactive solution with **six dashboard perspectives**
-- Analyzed **~99K orders** across multiple business dimensions
-- Designed a data model and DAX measures to support business insights
-
-🔗 **View on LinkedIn:** [See project details](https://www.linkedin.com/in/menna-elhosary-502a7a260/details/projects/)
-
-### 📈 Superstore Sales Analysis
-
-A business analytics project exploring sales, profitability, and performance trends through data visualization.
-
-**Focus:** Sales performance · Profitability · Business insights
-
-🔗 **View on LinkedIn:** [See project details](https://www.linkedin.com/in/menna-elhosary-502a7a260/details/projects/)
-
-> 💼 Want to see the full dashboards? Check the projects section on my [LinkedIn profile](https://www.linkedin.com/in/menna-elhosary-502a7a260/details/projects/).
+<p align="center">
+  <a href="https://www.linkedin.com/in/menna-elhosary-502a7a260/details/projects/">
+    <img src="https://img.shields.io/badge/-View_My_Projects_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View my projects on LinkedIn"/>
+  </a>
+</p>
 
 ---
 
