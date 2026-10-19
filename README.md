@@ -92,7 +92,6 @@ My data analysis and business intelligence projects, including interactive dashb
 
 ## 🏅 Certifications & Training
 
-- **AI Ambassadors Training Program**: Certificate of completion
 - View all my certificates on [LinkedIn](https://www.linkedin.com/in/menna-elhosary-502a7a260/details/certifications/)
 
 ---
