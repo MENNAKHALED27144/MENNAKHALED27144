@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/menna-elhosary-502a7a260/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:melhosary297@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=melhosary297@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wa.me/201120048239">
@@ -81,7 +81,7 @@ An end-to-end analytics project exploring sales performance, delivery operations
 - Analyzed **~99K orders** across multiple business dimensions
 - Designed a data model and DAX measures to support business insights
 
-🔗 **View on LinkedIn:** [See project details](https://www.linkedin.com/in/menna-elhosary-502a7a260/)
+🔗 **View on LinkedIn:** [See project details](https://www.linkedin.com/in/menna-elhosary-502a7a260/details/projects/)
 
 ### 📈 Superstore Sales Analysis
 
@@ -89,9 +89,9 @@ A business analytics project exploring sales, profitability, and performance tre
 
 **Focus:** Sales performance · Profitability · Business insights
 
-🔗 **View on LinkedIn:** [See project details](https://www.linkedin.com/in/menna-elhosary-502a7a260/)
+🔗 **View on LinkedIn:** [See project details](https://www.linkedin.com/in/menna-elhosary-502a7a260/details/projects/)
 
-> 💼 Want to see the full dashboards? Check the projects section on my [LinkedIn profile](https://www.linkedin.com/in/menna-elhosary-502a7a260/).
+> 💼 Want to see the full dashboards? Check the projects section on my [LinkedIn profile](https://www.linkedin.com/in/menna-elhosary-502a7a260/details/projects/).
 
 ---
 
@@ -108,7 +108,7 @@ A business analytics project exploring sales, profitability, and performance tre
 ## 🏅 Certifications & Training
 
 - **AI Ambassadors Training Program**: Certificate of completion
-- Additional certificates are listed on my [LinkedIn profile](https://www.linkedin.com/in/menna-elhosary-502a7a260/)
+- View all my certificates on [LinkedIn](https://www.linkedin.com/in/menna-elhosary-502a7a260/details/certifications/)
 
 ---
 
@@ -126,7 +126,7 @@ I'm always happy to connect with people who enjoy technology, programming, data,
   <a href="https://www.linkedin.com/in/menna-elhosary-502a7a260/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:melhosary297@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=melhosary297@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wa.me/201120048239">
