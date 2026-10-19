@@ -8,13 +8,13 @@
 
 <p>
   <a href="https://www.linkedin.com/in/menna-elhosary-502a7a260/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:melhosary297@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wa.me/201120048239">
-    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
@@ -81,7 +81,7 @@ An end-to-end analytics project exploring sales performance, delivery operations
 - Analyzed **~99K orders** across multiple business dimensions
 - Designed a data model and DAX measures to support business insights
 
-🔗 **Project:** _link coming soon_
+🔗 **View on LinkedIn:** [See project details](https://www.linkedin.com/in/menna-elhosary-502a7a260/)
 
 ### 📈 Superstore Sales Analysis
 
@@ -89,7 +89,9 @@ A business analytics project exploring sales, profitability, and performance tre
 
 **Focus:** Sales performance · Profitability · Business insights
 
-🔗 **Project:** _link coming soon_
+🔗 **View on LinkedIn:** [See project details](https://www.linkedin.com/in/menna-elhosary-502a7a260/)
+
+> 💼 Want to see the full dashboards? Check the projects section on my [LinkedIn profile](https://www.linkedin.com/in/menna-elhosary-502a7a260/).
 
 ---
 
@@ -122,13 +124,13 @@ I'm always happy to connect with people who enjoy technology, programming, data,
 
 <p align="center">
   <a href="https://www.linkedin.com/in/menna-elhosary-502a7a260/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:melhosary297@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wa.me/201120048239">
-    <img src="https://img.shields.io/badge/WhatsApp-Send_a_Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
